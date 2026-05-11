@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saipranay2011.github.io/Portfolio-V2/](https://saipranay2011.github.io/Portfolio-V2/)
 
-- 💬 Ask me about **react, next.js, spring boot, CI/CD**
+- 💬 Ask me about **ASP.NET Core, Next.js, microservices, CI/CD, AWS, and machine learning**
 
 - 📫 How to reach me **saipranay.chebium@gmail.com**
 
